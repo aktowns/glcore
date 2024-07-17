@@ -8,7 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/glcore" />
+            <option value="$PROJECT_DIR$/kglcore" />
+            <option value="$PROJECT_DIR$/kglgen" />
             <option value="$PROJECT_DIR$/native" />
           </set>
         </option>

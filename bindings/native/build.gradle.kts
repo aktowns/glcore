@@ -12,7 +12,7 @@ repositories {
 }
 
 library {
-    targetMachines.add(machines.linux.x86_64) // Add your target machine configurations here
+    targetMachines.add(machines.linux.x86_64)
 }
 
 val createJar by tasks.registering(Jar::class) {

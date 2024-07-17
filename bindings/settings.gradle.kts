@@ -13,4 +13,4 @@ plugins {
 
 rootProject.name = "glcore"
 
-include("native", "lib")
+include("native", "glcore", "kglgen", "kglcore")
